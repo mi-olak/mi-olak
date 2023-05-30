@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I'm working on my skills<br>I'm currently learning Vue<br>I'm looking for help with exploring new technologies<br>Ask me about any tech-related stuff<br>how to reach me: Email - <br>             femi.olakanmi@yahoo.com<br>fun-fact : I have a playful pet dog named Ragnar<br> <br>
+I'm working on my skills<br>I'm currently learning React.js<br>I'm looking for help with exploring new technologies<br>Ask me about any tech-related stuff<br>how to reach me: Email - <br>             femi.olakanmi@yahoo.com<br>fun-fact : I have a playful pet dog named Ragnar<br> <br>
 
 
 ## 🌐 Socials:
